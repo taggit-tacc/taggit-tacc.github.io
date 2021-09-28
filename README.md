@@ -9,7 +9,7 @@ Step Zero: If you haven't cloned a copy or pulled the latest version of the webs
 #	 git log TO LIST THE PAST COMMITS AND THEN git reset <hash of previous commits>
 #	 TO RESET THE CHANGES.
 
-Step One: run git init and then git rm * and push. this will remove all files from the repo.
+Step One: run git init and then git rm * -r and push. this will remove all files from the repo.
 	  This step is very important as otherwise, we'll have the old files still
 	  in the repo which causes errors.
 
@@ -21,8 +21,8 @@ Step Three: use ng build --prod to build the project. If you don't make a produc
 	    The output is stored in Taggit/dist.
 
 Step Four: navigate into the /dist directory and copy absolutely everything into the website's
-	   repo. Also, at this step copy over the preserved README.txt and 404.html files.
-	   if a change was made to index.html, delete 404.html and make a new file named 404.html
+	   repo. Also, at this step copy over the preserved README.txt
+	   On the repo, make a new file named 404.html
 	   then, open index.html, and copy absolutely everything to the new 404.html
 
 Step Five: git init, git add *, git commit, and git push. The website is now updated, and
