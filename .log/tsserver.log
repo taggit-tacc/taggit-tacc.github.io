@@ -19,3 +19,6 @@ Info 16   [14:39:58.733] Project '/dev/null/autoImportProviderProject1*' (AutoIm
 Info 17   [14:39:58.733] 	Files (13)
 
 Info 18   [14:39:58.733] -----------------------------------------------
+Info 19   [14:51:52.019] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 20   [14:51:52.365] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 345.57818899676204ms
+Info 21   [14:51:52.365] Different program with same set of files
