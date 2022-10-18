@@ -1,0 +1,21 @@
+Info 0    [14:39:56.494] Starting TS Server
+Info 1    [14:39:56.500] Version: 4.8.3
+Info 2    [14:39:56.500] Arguments: /Users/ipark/.nvm/versions/node/v16.15.0/bin/node /Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/ipark/taggit-web2/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/yf/pdrk5_l17t9c6d88t_qlfw5c0000gq/T/85d2a3535dea324e8d656b0ac3a6ed7d/tscancellation*
+Info 3    [14:39:56.500] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [14:39:56.500] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [14:39:56.515] Format host information updated
+Info 6    [14:39:57.669] Search path: /Users/ipark/taggit-web2
+Info 7    [14:39:57.670] For info: /Users/ipark/taggit-web2/main-es5.js :: No config files found.
+Info 8    [14:39:57.673] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [14:39:58.432] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 758.0637409985065ms
+Info 10   [14:39:58.432] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [14:39:58.432] 	Files (19)
+
+Info 12   [14:39:58.432] -----------------------------------------------
+Info 13   [14:39:58.469] AutoImportProviderProject: found 1 root files in 1 dependencies in 34.77080500125885 ms
+Info 14   [14:39:58.471] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [14:39:58.733] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 261.4281810000539ms
+Info 16   [14:39:58.733] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [14:39:58.733] 	Files (13)
+
+Info 18   [14:39:58.733] -----------------------------------------------

@@ -1,0 +1,63 @@
+[14:39:56.733] Global cache location '/Users/ipark/Library/Caches/typescript/4.8', safe file path '/users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typesmap.json
+[14:39:56.738] Processing cache location '/Users/ipark/Library/Caches/typescript/4.8'
+[14:39:56.738] Trying to find '/Users/ipark/Library/Caches/typescript/4.8/package.json'...
+[14:39:56.742] Loaded content of '/Users/ipark/Library/Caches/typescript/4.8/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.614"},"devDependencies":{"@types/babel__core":"^7.1.19","@types/babel__preset-env":"^7.9.2","@types/dompurify":"^2.3.4","@types/eslint":"^8.4.6","@types/fetch-mock":"^7.3.5","@types/jest":"^29.0.3","@types/js-cookie":"^3.0.2","@types/lodash":"^4.14.186","@types/postcss-preset-env":"^7.7.0","@types/prettier":"^2.7.1","@types/prop-types":"^15.7.5","@types/react":"^18.0.21","@types/react-copy-to-clipboard":"^5.0.4","@types/react-dom":"^18.0.6","@types/react-google-recaptcha":"^2.1.5","@types/react-redux":"^7.1.24","@types/react-router-dom":"^5.3.3","@types/react-table":"^7.7.12","@types/react-test-renderer":"^18.0.0","@types/react-virtualized-auto-sizer":"^1.0.1","@types/react-window":"^1.8.5","@types/redux-mock-store":"^1.0.3","@types/sass":"^1.43.1","@types/testing-library__jest-dom":"^5.14.5","@types/uuid":"^8.3.4"}}
+[14:39:56.742] Loaded content of '/Users/ipark/Library/Caches/typescript/4.8/package-lock.json'
+[14:39:56.756] Adding entry into typings cache: 'babel__core' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/babel__core/index.d.ts'
+[14:39:56.759] Adding entry into typings cache: 'babel__preset-env' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/babel__preset-env/index.d.ts'
+[14:39:56.762] Adding entry into typings cache: 'dompurify' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/dompurify/index.d.ts'
+[14:39:56.765] Adding entry into typings cache: 'eslint' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/eslint/index.d.ts'
+[14:39:56.768] Adding entry into typings cache: 'fetch-mock' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/fetch-mock/index.d.ts'
+[14:39:56.773] Adding entry into typings cache: 'jest' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/jest/index.d.ts'
+[14:39:56.774] Adding entry into typings cache: 'js-cookie' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/js-cookie/index.d.ts'
+[14:39:56.778] Adding entry into typings cache: 'lodash' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/lodash/index.d.ts'
+[14:39:56.780] Adding entry into typings cache: 'postcss-preset-env' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/postcss-preset-env/index.d.ts'
+[14:39:56.783] Adding entry into typings cache: 'prettier' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/prettier/index.d.ts'
+[14:39:56.784] Adding entry into typings cache: 'prop-types' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/prop-types/index.d.ts'
+[14:39:56.788] Adding entry into typings cache: 'react' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react/index.d.ts'
+[14:39:56.790] Adding entry into typings cache: 'react-copy-to-clipboard' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-copy-to-clipboard/index.d.ts'
+[14:39:56.792] Adding entry into typings cache: 'react-dom' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-dom/index.d.ts'
+[14:39:56.794] Adding entry into typings cache: 'react-google-recaptcha' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-google-recaptcha/index.d.ts'
+[14:39:56.796] Adding entry into typings cache: 'react-redux' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-redux/index.d.ts'
+[14:39:56.797] Adding entry into typings cache: 'react-router-dom' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-router-dom/index.d.ts'
+[14:39:56.798] Adding entry into typings cache: 'react-table' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-table/index.d.ts'
+[14:39:56.800] Adding entry into typings cache: 'react-test-renderer' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-test-renderer/index.d.ts'
+[14:39:56.801] Adding entry into typings cache: 'react-virtualized-auto-sizer' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-virtualized-auto-sizer/index.d.ts'
+[14:39:56.802] Adding entry into typings cache: 'react-window' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/react-window/index.d.ts'
+[14:39:56.803] Adding entry into typings cache: 'redux-mock-store' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/redux-mock-store/index.d.ts'
+[14:39:56.804] Adding entry into typings cache: 'sass' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/sass/index.d.ts'
+[14:39:56.806] Adding entry into typings cache: 'testing-library__jest-dom' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[14:39:56.807] Adding entry into typings cache: 'uuid' => '/Users/ipark/Library/Caches/typescript/4.8/node_modules/@types/uuid/index.d.ts'
+[14:39:56.807] Finished processing cache location '/Users/ipark/Library/Caches/typescript/4.8'
+[14:39:56.808] Process id: 5849
+[14:39:56.808] NPM location: /Users/ipark/.nvm/versions/node/v16.15.0/bin/npm (explicit '--npmLocation' not  provided)
+[14:39:56.808] validateDefaultNpmLocation: false
+[14:39:56.808] Npm config file: /Users/ipark/Library/Caches/typescript/4.8/package.json
+[14:39:56.808] Updating types-registry npm package...
+[14:39:56.808] Exec: /Users/ipark/.nvm/versions/node/v16.15.0/bin/npm install --ignore-scripts types-registry@latest
+[14:39:57.968]     Succeeded. stdout:
+    
+    up to date, audited 110 packages in 848ms
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[14:39:57.968] Updated types-registry npm package
+[14:39:58.735] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/ipark/taggit-web2/main-es5.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/ipark/taggit-web2","kind":"discover"}
+[14:39:58.747] Loaded safelist from types map file '/users/ipark/.nvm/versions/node/v16.15.0/lib/node_modules/typescript/lib/typesmap.json'
+[14:39:58.748] Explicitly included types: []
+[14:39:58.749] Inferred typings from unresolved imports: []
+[14:39:58.749] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/ipark/taggit-web2/bower_components","/Users/ipark/taggit-web2/node_modules"]}
+[14:39:58.749] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/ipark/taggit-web2/bower_components","/Users/ipark/taggit-web2/node_modules"]}
+[14:39:58.749] DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/bower_components
+[14:39:58.750] DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:39:58.751] Elapsed:: 0.7855630032718182ms DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:39:58.751] DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/node_modules
+[14:39:58.751] DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:39:58.751] Elapsed:: 0.0692249983549118ms DirectoryWatcher:: Added:: WatchInfo: /Users/ipark/taggit-web2/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:39:58.751] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[14:39:58.752] Response has been sent.
+[14:39:58.752] No new typings were requested as a result of typings discovery
